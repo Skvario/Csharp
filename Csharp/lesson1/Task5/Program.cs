@@ -8,3 +8,4 @@ while (x <= n)
    Console.Write(" ");
 x = x + 1;
 }
+ 
